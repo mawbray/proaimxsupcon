@@ -1,0 +1,13 @@
+# imports
+# rl
+torch
+numpy
+scipy
+matplotlib
+seaborn 
+pandas
+
+# hybrid ODE
+jax
+optax
+diffrax
