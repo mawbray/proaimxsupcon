@@ -11,3 +11,4 @@ pandas
 jax
 optax
 diffrax
+pyswarm
